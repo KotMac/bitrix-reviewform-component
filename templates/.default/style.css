@@ -1,0 +1,58 @@
+
+.review-form {
+    margin: 20px 0;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.success-message {
+    color: green;
+}
+
+.error-message {
+    color: red;
+}
+
+input#name {
+    border: 2px solid #8686cb;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    padding: 0 10px;
+} 
+
+textarea#review {
+    border: 2px solid #8686cb;
+    border-radius: 10px;
+    width: 320px;
+    height: 100px;
+    padding: 0 10px;
+}
+
+input#rating {
+    border: 2px solid #8686cb;
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    font-size: 200%;
+    padding: 0 10px;
+}
+
+.btn-primary {
+    border: 2px solid #8686cb;
+    border-radius: 10px;
+    width: 200px;
+    height: auto;
+    background-color: #8686cb;
+    color: #fff;
+    padding: 0 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
